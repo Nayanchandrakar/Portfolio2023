@@ -1,5 +1,5 @@
 # Portfolio Website Using React Tailwind Css
-### Site preview [Portfolio Website](https://portfolio00024.netlify.app/).
+### Site preview [Portfolio Website](https://portfolio00023.netlify.app/).
 The website showcases my skills, projects and experiences, and serves as a platform for potential employers and collaborators to learn more about me and my work.
 
 ![Web capture_20-3-2023_113521_portfolio00024 netlify app](https://user-images.githubusercontent.com/100008163/226261988-1cbc2b9a-08a6-43cc-b1a2-bb475b2ebe15.jpeg)
